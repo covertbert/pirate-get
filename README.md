@@ -2,7 +2,8 @@
 
 [![Circle CI](https://img.shields.io/circleci/project/vikstrous/pirate-get/master.svg)](https://circleci.com/gh/vikstrous/pirate-get/tree/master)
 [![Coverage Status](https://img.shields.io/coveralls/vikstrous/pirate-get/master.svg)](https://coveralls.io/github/vikstrous/pirate-get?branch=master)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/vikstrous/pirate-getView/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/vikstrous/pirate-get/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/vikstrous/pirate-get/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/8e5fc16afd23496dbcf74db710d1ef2c)](https://www.codacy.com/app/me_29/pirate-get)
 [![Gemnasium](https://img.shields.io/gemnasium/vikstrous/pirate-get.svg)](https://gemnasium.com/vikstrous/pirate-get)
 [![License](https://img.shields.io/pypi/l/pirate-get.svg)](https://raw.githubusercontent.com/vikstrous/pirate-get/master/LICENSE)
